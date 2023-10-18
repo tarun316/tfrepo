@@ -1,6 +1,6 @@
 variable "vcps" {
   type    = list(any)
-  default = ["vcp1", "vcp2", "myvcp3"]
+  default = ["myvcp1", "myvcp2", "myvcp3"]
 }
 
 
